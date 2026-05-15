@@ -1,2 +1,7 @@
-# demo-braun-propiedades
-Demo web para BRAUN PROPIEDADES — diseñada por eterlab.
+# BRAUN PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
